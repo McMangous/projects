@@ -64,3 +64,9 @@
   	font-family: 'Libre Barcode 128 Text';
 }
 
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
