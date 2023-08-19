@@ -1,0 +1,51 @@
+.landing,
+.landing * {
+  box-sizing: border-box;
+}
+.landing {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(149, 227, 180, 1) 100%
+  );
+  width: 1136px;
+  height: 750px;
+  position: relative;
+  overflow: hidden;
+}
+.welcome {
+  color: #000000;
+  text-align: left;
+  font: 400 256px "Libre Barcode 128 Text", sans-serif;
+  position: absolute;
+  left: 272px;
+  top: 247px;
+  width: 592px;
+  height: 256px;
+}
+.here-you-ll-find-a-glimpse-of-me {
+  color: #000000;
+  text-align: left;
+  font: 400 48px "Flow Block", sans-serif;
+  position: absolute;
+  left: 180px;
+  top: 576px;
+}
+.links {
+  position: absolute;
+  left: 885px;
+  top: 45px;
+  overflow: visible;
+}
+.gallery {
+  position: absolute;
+  left: 538px;
+  top: 51px;
+  overflow: visible;
+}
+.home {
+  position: absolute;
+  left: 198.5px;
+  top: 52.5px;
+  overflow: visible;
+}
