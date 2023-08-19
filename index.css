@@ -1,0 +1,66 @@
+.welcome {
+  	position: absolute;
+  	top: 247px;
+  	left: 272px;
+  	display: inline-block;
+  	width: 592px;
+  	height: 256px;
+}
+.here-youll-find {
+  	position: absolute;
+  	top: 576px;
+  	left: 180px;
+  	font-size: 48px;
+  	font-family: 'Flow Block';
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.links-icon {
+  	position: absolute;
+  	height: 9.07%;
+  	width: 5.99%;
+  	top: 6%;
+  	right: 16.46%;
+  	bottom: 84.93%;
+  	left: 77.55%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	cursor: pointer;
+}
+.gallery-icon {
+  	position: absolute;
+  	height: 7.47%;
+  	width: 5.99%;
+  	top: 6.8%;
+  	right: 47.01%;
+  	bottom: 85.73%;
+  	left: 47.01%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	cursor: pointer;
+}
+.home-icon {
+  	position: absolute;
+  	height: 7.07%;
+  	width: 4.67%;
+  	top: 7%;
+  	right: 78.21%;
+  	bottom: 85.93%;
+  	left: 17.12%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.landing {
+  	position: relative;
+  	background: linear-gradient(180deg, #fff, #95e3b4);
+  	width: 100%;
+  	height: 750px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 256px;
+  	color: #000;
+  	font-family: 'Libre Barcode 128 Text';
+}
+
